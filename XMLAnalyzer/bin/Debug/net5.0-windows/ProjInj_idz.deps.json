@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ProjInj_idz/1.0.0": {
+        "runtime": {
+          "ProjInj_idz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjInj_idz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

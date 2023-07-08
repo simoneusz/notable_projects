@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bgzkb/HP06O1ZJCSLo9fl+LUiA0sLHJRdMoNZyLQICiHfncv0rWuOXKTmCoAnUTb4XtS2T8VWzFR1WOxZrHO6g==",
+  "success": true,
+  "projectFilePath": "D:\\progg\\c#\\TextEditor\\TextEditor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ilya\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\Ilya\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Ilya\\.nuget\\packages\\smartformat\\3.2.1\\smartformat.3.2.1.nupkg.sha512",
+    "C:\\Users\\Ilya\\.nuget\\packages\\smartformat.extensions.newtonsoft.json\\3.2.1\\smartformat.extensions.newtonsoft.json.3.2.1.nupkg.sha512",
+    "C:\\Users\\Ilya\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Ilya\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

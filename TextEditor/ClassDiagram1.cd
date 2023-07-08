@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TextEditor.AuthorSheetObserver" BaseTypeListCollapsed="true">
+    <Position X="7.75" Y="8.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAgAAAAAAAA=</HashCode>
+      <FileName>AuthorSheetObserver.cs</FileName>
+      <NewMemberFileName>Form2.cs</NewMemberFileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TextEditor.ObservableTextControl">
+    <Position X="5.5" Y="8.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQIAgAAAAAAAQAAAA=</HashCode>
+      <FileName>AuthorSheetObserver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextEditor.DocumentSaver" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>DocumentSaver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextEditor.TxtDocumentSaver" Collapsed="true">
+    <Position X="13.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DocumentSaver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextEditor.HtmlDocumentSaver" Collapsed="true">
+    <Position X="10.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DocumentSaver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextEditor.BinaryDocumentSaver" Collapsed="true">
+    <Position X="12" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DocumentSaver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextEditor.EventLog">
+    <Position X="7.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAABAAAAEAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>EventLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextEditor.EventLogger">
+    <Position X="11" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAAEAAQAAAABAAAAA=</HashCode>
+      <FileName>EventLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextEditor.TextFileLoader" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileLoader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TextEditor.HtmlFileLoader" BaseTypeListCollapsed="true">
+    <Position X="1.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileLoader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TextEditor.BinaryFileLoader" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileLoader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TextEditor.FileLoaderFactory" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileLoader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TextEditor.Form1">
+    <Position X="17.75" Y="0.5" Width="2.75" />
+    <Members>
+      <Field Name="analyzeToolStripMenuItem" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="deleteToolStripMenuItem" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="emptyLinesToolStripMenuItem" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="keywordsToolStripMenuItem" Hidden="true" />
+      <Field Name="MainText" Hidden="true" />
+      <Field Name="menuStrip1" Hidden="true" />
+      <Field Name="menuToolStripMenuItem" Hidden="true" />
+      <Field Name="openFileDialog1" Hidden="true" />
+      <Field Name="openToolStripMenuItem" Hidden="true" />
+      <Field Name="requestToolStripMenuItem" Hidden="true" />
+      <Field Name="saveAsToolStripMenuItem" Hidden="true" />
+      <Field Name="saveFileDialog1" Hidden="true" />
+      <Field Name="saveFileDialog2" Hidden="true" />
+      <Field Name="saveLogToolStripMenuItem" Hidden="true" />
+      <Field Name="saveToolStripMenuItem" Hidden="true" />
+      <Field Name="statisticsToolStripMenuItem" Hidden="true" />
+      <Field Name="tenLongestWordsToolStripMenuItem" Hidden="true" />
+      <Field Name="webRequestToolStripMenuItem" Hidden="true" />
+      <Field Name="whiteSpacesToolStripMenuItem" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>DUhAAoSAASAASDCAQ8SAwAACCAAAQAAILqAEAAAACAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextEditor.Program">
+    <Position X="12.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextEditor.ReportBuilder">
+    <Position X="7.25" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAACAAAAAAAAAAAAACAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReportBuilder.cs</FileName>
+      <NewMemberFileName>Form2.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextEditor.TextStatistics">
+    <Position X="20.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAEBAAAgAgBAAAAAAAAAECAAAAAgAAQAAIAAAEAAEAI=</HashCode>
+      <FileName>TextStatistics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextEditor.WebRequester">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WebRequester.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="TextEditor.IObserver">
+    <Position X="7.75" Y="6.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>AuthorSheetObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TextEditor.IFileLoader">
+    <Position X="3.25" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileLoader.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TextEditor.IFileLoaderFactory">
+    <Position X="3.25" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileLoader.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="TextEditor.EventType">
+    <Position X="9.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAQAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventLogger.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
